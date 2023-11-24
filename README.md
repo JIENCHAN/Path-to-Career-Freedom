@@ -1,7 +1,6 @@
+# 欢迎来到 [岛] 的独立开发项目集合
 # Path-to-Career-Freedom
 Exploring Fun and Chill Career and Lifestyle Choices
-
-# 欢迎来到 [岛] 的独立开发项目集合
 
 ## 关于我
 
@@ -9,7 +8,7 @@ Exploring Fun and Chill Career and Lifestyle Choices
 
 ```html
 
-<img src="[https://1drv.ms/i/s!AmmzSP1fY6jbvngbUCTEBt1f3rpC?e=WoiPzk]" width="300px">
+<img src="https://1drv.ms/i/s!AmmzSP1fY6jbvngbUCTEBt1f3rpC?e=WoiPzk" width="300px">
 项目展示
 在这个部分，展示你的主要项目。为每个项目创建一个小节，并提供以下信息：
 
